@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hi, I'm Nirmala Mangrati 👋
 
-<!--
-**Nirmalamangrati/Nirmalamangrati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a full-stack web development enthusiast, currently focusing on the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and Next.js.  
+I enjoy building projects to practice and improve step by step. My goal is to write clean, understandable code, learn how things work under the hood, and grow with every project I create.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 What I'm Learning
+
+- **Languages:** JavaScript, TypeScript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+- **Frontend:** React.js, Next.js, Tailwind CSS ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+- **Backend:** Node.js, Express.js ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+- **Databases:** MongoDB, Firebase, Supabase ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+- **Tools:** Git, GitHub ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+> Learning by doing is my favorite way to grow and apply what I learn in real projects. 🚀  
+
+---
+
+## 📝 Projects
+
+Here are some of the projects I’ve worked on:  
+
+- **PostFlow (Social Media Platform)** – A platform to create, like, comment, and share posts  
+  - Built with React.js, Tailwind CSS, Node.js, Express, and MongoDB  
+  - Features media upload, real-time interactions, and user authentication  
+  - [GitHub Repo](#) | [Live Demo](#)  
+
+- **Hostel Management System** – Manage student accommodations, room allocations, and fees  
+  - Built with React.js, Node.js, Express, and MongoDB  
+  - Role-based access for Admin and Students  
+  - [GitHub Repo](#) | [Live Demo](#)  
+
+- **Product Inventory Management** – Manage products, stock, and categories  
+  - Built with React.js, Node.js, Express, and MongoDB  
+  - Add/update/delete functionality  
+  - [GitHub Repo](#) | [Live Demo](#)  
+
+- **Todo Application** – Add, edit, delete, and mark tasks as completed  
+  - Built with React.js  
+
+- **Snake Game** – Classic browser-based game built with JavaScript 🐍  
+
+- **Movie Browser UI** – Browse and filter movies 🎬  
+
+- **Calculator** – Simple arithmetic calculator ➕➖✖️➗  
+
+These projects helped me sharpen my coding skills, improve UI/UX understanding, and build interactive applications.  
+
+---
+
+## 📫 Contact Me
+
+I love connecting with fellow developers and learning from others:  
+
+- **Email:** [nirmalamangrati@example.com](mailto:nirmalamangrati@example.com)  
+- **Phone:** 9825716885  
+- **Location:** Lalitpur-Imadole, Nepal 🌏  
+
+---
+
+## 🔗 Find Me Online
+
+- **GitHub:** [https://github.com/Nirmalamangrati](https://github.com/Nirmalamangrati)  
+- **LinkedIn:** [https://linkedin.com/in/nirmalamangrati](https://linkedin.com/in/nirmalamangrati)  
+
+---
+
+## 📊 GitHub Stats
+
+![Nirmala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nirmalamangrati&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmalamangrati&layout=compact&theme=radical)  
+
+---
+
+## 👀 Visitors
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Nirmalamangrati.Nirmalamangrati)  
+
+---
+
+✨ I enjoy learning, building projects, and improving my skills every day. Thanks for stopping by my profile! 💖
