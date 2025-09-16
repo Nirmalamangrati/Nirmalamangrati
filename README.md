@@ -24,26 +24,32 @@ Here are some of the projects I’ve worked on:
 - **PostFlow (Social Media Platform)** – A platform to create, like, comment, and share posts  
   - Built with React.js, Tailwind CSS, Node.js, Express, and MongoDB  
   - Features media upload, real-time interactions, and user authentication  
-  - [GitHub Repo](#) | [Live Demo](#)  
+  - [postflow](#) | [Live Demo](#)  
 
 - **Hostel Management System** – Manage student accommodations, room allocations, and fees  
   - Built with React.js, Node.js, Express, and MongoDB  
   - Role-based access for Admin and Students  
-  - [GitHub Repo](#) | [Live Demo](#)  
+  - [Hostel-management-System-PHP-
+](#) | [Live Demo](#)  
 
 - **Product Inventory Management** – Manage products, stock, and categories  
   - Built with React.js, Node.js, Express, and MongoDB  
   - Add/update/delete functionality  
-  - [GitHub Repo](#) | [Live Demo](#)  
+  - [PRODUCT_INVENTORY](#) | [Live Demo](#)  
 
 - **Todo Application** – Add, edit, delete, and mark tasks as completed  
-  - Built with React.js  
+  - Built with React.js
+  - [Todo-App-mini-project-](#) | [Live Demo](#)  
 
 - **Snake Game** – Classic browser-based game built with JavaScript 🐍  
 
-- **Movie Browser UI** – Browse and filter movies 🎬  
+- **Movie Browser UI** – Browse and filter movies 🎬
+-  [movie-browser-ui
+](#) | [Live Demo](#)
 
-- **Calculator** – Simple arithmetic calculator ➕➖✖️➗  
+- **Calculator** – Simple arithmetic calculator ➕➖✖️➗
+-  [Snake-game](#) | [Live Demo](#)  
+
 
 These projects helped me sharpen my coding skills, improve UI/UX understanding, and build interactive applications.  
 
