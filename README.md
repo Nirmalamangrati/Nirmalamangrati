@@ -61,7 +61,7 @@ I love connecting with fellow developers and learning from others:
 
 - **Email:** [nirmalamangrati@example.com](mailto:nirmalamangrati@example.com)  
 - **Phone:** 9825716885  
-- **Location:** Lalitpur-Imadole, Nepal 🌏  
+- **Location:** Lalitpur-Imadol, Nepal 🌏  
 
 ---
 
