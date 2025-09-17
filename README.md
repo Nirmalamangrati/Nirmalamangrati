@@ -49,7 +49,7 @@ Here are some of the projects I’ve worked on:
 
 - **Calculator** – Simple arithmetic calculator ➕➖✖️➗  
   - Built with HTML, Tailwind CSS, and JavaScript  
-  - [Calculator](calculator-lfpe533q0-nirmalamgrt-8293s-projects.vercel.app) | [Live Demo](calculator-lfpe533q0-nirmalamgrt-8293s-projects.vercel.app)
+  - [Calculator](calculator-lfpe533q0-nirmalamgrt-8293s-projects.vercel.app) | [Live Demo](calculator-cvq8-njgcdnbff-nirmalamgrt-8293s-projects.vercel.app)
 
 
 
