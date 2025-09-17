@@ -48,7 +48,7 @@ Here are some of the projects I’ve worked on:
 ](#) | [Live Demo](#)
 
 - **Calculator** – Simple arithmetic calculator ➕➖✖️➗
--  [Snake-game](#) | [Live Demo](#)  
+-  [git@github.com:Nirmalamangrati/calculator.git](#) | [Live Demo](#)  
 
 
 These projects helped me sharpen my coding skills, improve UI/UX understanding, and build interactive applications.  
