@@ -47,8 +47,10 @@ Here are some of the projects I’ve worked on:
 -  [movie-browser-ui
 ](#) | [Live Demo](#)
 
-- **Calculator** – Simple arithmetic calculator ➕➖✖️➗
--  [git@github.com:Nirmalamangrati/calculator.git](#) | [Live Demo](#)  
+- **Calculator** – Simple arithmetic calculator ➕➖✖️➗  
+  - Built with HTML, Tailwind CSS, and JavaScript  
+  - [Repository](https://github.com/Nirmalamangrati/calculator) | [Live Demo](https://nirmalamangrati.github.io/calculator/)
+
 
 
 These projects helped me sharpen my coding skills, improve UI/UX understanding, and build interactive applications.  
