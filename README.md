@@ -23,9 +23,9 @@ Here are some of the projects I’ve worked on:
 - **JS Mini Project** – Small interactive JavaScript project  
   - [Live Demo](https://js-mini-project-k0awg2yh9-nirmalamgrt-8293s-projects.vercel.app)
  
-  - **Calculator** – Simple arithmetic calculator ➕➖✖️➗  
+- **Calculator** – Simple arithmetic calculator ➕➖✖️➗  
   - Built with HTML, Tailwind CSS, and JavaScript  
-  - [Calculator](calculator-tzle-irk7nehlo-nirmalamgrt-8293s-projects.vercel.app) | [Live Demo](calculator-tzle-irk7nehlo-nirmalamgrt-8293s-projects.vercel.app)
+  - [Calculator](calculator-tzle-irk7nehlo-nirmalamgrt-8293s-projects.vercel.app) | [Live Demo](calculator-v4tx-czasybhlh-nirmalamgrt-8293s-projects.vercel.app)
  
 - **Todo Application** – Add, edit, delete, and mark tasks as completed  
   - Built with React.js
