@@ -25,7 +25,8 @@ Here are some of the projects I’ve worked on:
  
 - **Calculator** – Simple arithmetic calculator ➕➖✖️➗  
   - Built with HTML, Tailwind CSS, and JavaScript  
-  - [Calculator](calculator-tzle-irk7nehlo-nirmalamgrt-8293s-projects.vercel.app) | [Live Demo](calculator-v4tx-czasybhlh-nirmalamgrt-8293s-projects.vercel.app)
+  - [Calculator](calculator-v4tx-git-main-nirmalamgrt-8293s-projects.vercel.app) | [Live Demo](calculator-v4tx-git-main-nirmalamgrt-8293s-projects.vercel.app)
+
  
 - **Todo Application** – Add, edit, delete, and mark tasks as completed  
   - Built with React.js
