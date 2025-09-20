@@ -22,6 +22,14 @@ I enjoy building projects to practice and improve step by step. My goal is to wr
 Here are some of the projects I’ve worked on:  
 - **JS Mini Project** – Small interactive JavaScript project  
   - [Live Demo](https://js-mini-project-k0awg2yh9-nirmalamgrt-8293s-projects.vercel.app)
+ 
+  - **Calculator** – Simple arithmetic calculator ➕➖✖️➗  
+  - Built with HTML, Tailwind CSS, and JavaScript  
+  - [Calculator](calculator-tzle-irk7nehlo-nirmalamgrt-8293s-projects.vercel.app) | [Live Demo](calculator-tzle-irk7nehlo-nirmalamgrt-8293s-projects.vercel.app)
+ 
+- **Todo Application** – Add, edit, delete, and mark tasks as completed  
+  - Built with React.js
+   - [Calculator](https://calculator-sh7k-84j9udh7s-nirmalamgrt-8293s-projects.vercel.app) | [Live Demo](https://calculator-sh7k-84j9udh7s-nirmalamgrt-8293s-projects.vercel.app)
 
 - **PostFlow (Social Media Platform)** – A platform to create, like, comment, and share posts  
   - Built with React.js, Tailwind CSS, Node.js, Express, and MongoDB  
@@ -39,9 +47,7 @@ Here are some of the projects I’ve worked on:
   - Add/update/delete functionality  
   - [PRODUCT_INVENTORY](#) | [Live Demo](#)  
 
-- **Todo Application** – Add, edit, delete, and mark tasks as completed  
-  - Built with React.js
-  - [Todo-App-mini-project-](#) | [Live Demo](#)  
+
 
 - **Snake Game** – Classic browser-based game built with JavaScript 🐍  
 
@@ -49,9 +55,6 @@ Here are some of the projects I’ve worked on:
 -  [movie-browser-ui
 ](#) | [Live Demo](#)
 
-- **Calculator** – Simple arithmetic calculator ➕➖✖️➗  
-  - Built with HTML, Tailwind CSS, and JavaScript  
-  - [Calculator](calculator-lfpe533q0-nirmalamgrt-8293s-projects.vercel.app) | [Live Demo](calculator-cvq8-njgcdnbff-nirmalamgrt-8293s-projects.vercel.app)
 
 
 
