@@ -20,6 +20,8 @@ I enjoy building projects to practice and improve step by step. My goal is to wr
 ## 📝 Projects
 
 Here are some of the projects I’ve worked on:  
+- **JS Mini Project** – Small interactive JavaScript project  
+  - [Live Demo](https://js-mini-project-k0awg2yh9-nirmalamgrt-8293s-projects.vercel.app)
 
 - **PostFlow (Social Media Platform)** – A platform to create, like, comment, and share posts  
   - Built with React.js, Tailwind CSS, Node.js, Express, and MongoDB  
