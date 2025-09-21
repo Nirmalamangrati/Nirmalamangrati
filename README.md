@@ -26,13 +26,14 @@ Here are some of the projects I’ve worked on:
 
 - **Calculator** – Simple arithmetic calculator ➕➖✖️➗  
   - Built with HTML, Tailwind CSS, and JavaScript  
-  - [Calculator (v4tx)](https://calculator-v4tx.vercel.app) | [Demo (alternate)](https://calculator-9ou7-rlsb3r38u-nirmalamgrt-8293s-projects.vercel.app)
+  - [Calculator](https://calculator-v4tx.vercel.app) | [Demo](https://calculator-9ou7-rlsb3r38u-nirmalamgrt-8293s-projects.vercel.app)
 
  
-- **Todo Application** – Add, edit, delete, and mark tasks as completed  
-  - Built with React.js
-   - [Calculator](https://calculator-sh7k-84j9udh7s-nirmalamgrt-8293s-projects.vercel.app) | [Live Demo](https://calculator-sh7k-84j9udh7s-nirmalamgrt-8293s-projects.vercel.app)
-
+- **Todo Application** – Add, edit, delete, and mark tasks as completed ✅  
+  - Built with React.js  
+  - [Todo App](https://todo-app-mini-project-f9zljt0yt-nirmalamgrt-8293s-projects.vercel.app) | [Live Demo](https://todo-app-mini-project-f9zljt0yt-nirmalamgrt-8293s-projects.vercel.app)
+ 
+    
 - **PostFlow (Social Media Platform)** – A platform to create, like, comment, and share posts  
   - Built with React.js, Tailwind CSS, Node.js, Express, and MongoDB  
   - Features media upload, real-time interactions, and user authentication  
