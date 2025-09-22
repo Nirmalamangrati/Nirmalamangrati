@@ -38,7 +38,8 @@ Here are some of the projects I’ve worked on:
    - [Live Demo](https://my-react-app-2-2l7qk6bdx-nirmalamgrt-8293s-projects.vercel.app)
 
 - **Snake Game** – Classic browser-based game built with Java 🐍
-- [Repo](git@github.com:Nirmalamangrati/Snake-game.git)
+  - [Repo](https://github.com/Nirmalamangrati/Snake-game)
+
     
 - **PostFlow (Social Media Platform)** – A platform to create, like, comment, and share posts  
   - Built with React.js, Tailwind CSS, Node.js, Express, and MongoDB  
