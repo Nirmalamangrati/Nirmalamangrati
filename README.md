@@ -37,29 +37,24 @@ Here are some of the projects I’ve worked on:
 - **Movie Browser UI** – Browse and filter movies 🎬
    - [Live Demo](https://my-react-app-2-2l7qk6bdx-nirmalamgrt-8293s-projects.vercel.app)
 
+- **Snake Game** – Classic browser-based game built with Java 🐍
+- [Repo](git@github.com:Nirmalamangrati/Snake-game.git)
     
 - **PostFlow (Social Media Platform)** – A platform to create, like, comment, and share posts  
   - Built with React.js, Tailwind CSS, Node.js, Express, and MongoDB  
   - Features media upload, real-time interactions, and user authentication  
-  - [postflow](#) | [Live Demo](#)  
+  - [postflow](#) 
 
 - **Hostel Management System** – Manage student accommodations, room allocations, and fees  
   - Built with React.js, Node.js, Express, and MongoDB  
   - Role-based access for Admin and Students  
   - [Hostel-management-System-PHP-
-](#) | [Live Demo](#)  
+](#)
 
 - **Product Inventory Management** – Manage products, stock, and categories  
   - Built with React.js, Node.js, Express, and MongoDB  
   - Add/update/delete functionality  
-  - [PRODUCT_INVENTORY](#) | [Live Demo](#)  
-
-
-
-- **Snake Game** – Classic browser-based game built with JavaScript 🐍  
-
-
-
+  - [PRODUCT_INVENTORY](#)  
 
 
 
@@ -89,11 +84,9 @@ I love connecting with fellow developers and learning from others:
 ![Nirmala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nirmalamangrati&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmalamangrati&layout=compact&theme=radical)  
 
----
 
-## 👀 Visitors
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Nirmalamangrati.Nirmalamangrati)  
+
 
 ---
 
