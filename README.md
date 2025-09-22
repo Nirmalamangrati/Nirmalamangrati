@@ -34,8 +34,9 @@ Here are some of the projects I’ve worked on:
   - [Live Demo](https://todo-app-mini-project-f9zljt0yt-nirmalamgrt-8293s-projects.vercel.app)
  
     
- - **Movie Browser UI** – Browse and filter movies 🎬
-   -  [Live Demo](#)
+- **Movie Browser UI** – Browse and filter movies 🎬
+   - [Live Demo](https://my-react-app-2-2l7qk6bdx-nirmalamgrt-8293s-projects.vercel.app)
+
     
 - **PostFlow (Social Media Platform)** – A platform to create, like, comment, and share posts  
   - Built with React.js, Tailwind CSS, Node.js, Express, and MongoDB  
