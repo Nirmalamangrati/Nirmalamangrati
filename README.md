@@ -44,18 +44,18 @@ Here are some of the projects I’ve worked on:
 - **PostFlow (Social Media Platform)** – A platform to create, like, comment, and share posts  
   - Built with React.js, Tailwind CSS, Node.js, Express, and MongoDB  
   - Features media upload, real-time interactions, and user authentication  
-  - [postflow](#) 
+  - [postflow](https://github.com/Nirmalamangrati/post-flow.git) 
 
 - **Hostel Management System** – Manage student accommodations, room allocations, and fees  
   - Built with React.js, Node.js, Express, and MongoDB  
   - Role-based access for Admin and Students  
   - [Hostel-management-System-PHP-
-](#)
+](https://github.com/Nirmalamangrati/Hostel-management-System-PHP-)
 
 - **Product Inventory Management** – Manage products, stock, and categories  
   - Built with React.js, Node.js, Express, and MongoDB  
   - Add/update/delete functionality  
-  - [PRODUCT_INVENTORY](#)  
+  - [PRODUCT_INVENTORY](https://github.com/Nirmalamangrati/PRODUCT_INVENTORY.git)  
 
 
 
