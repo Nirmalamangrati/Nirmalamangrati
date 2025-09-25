@@ -21,24 +21,24 @@ I enjoy building projects to practice and improve step by step. My goal is to wr
 
 Here are some of the projects I’ve worked on:  
 - **JS Mini Project** – Small interactive JavaScript project  
-  - [Live Demo](https://js-mini-project-k0awg2yh9-nirmalamgrt-8293s-projects.vercel.app)
+  - [Repo](https://github.com/Nirmalamangrati/JS-mini-project.git)|[Live Demo](https://js-mini-project-k0awg2yh9-nirmalamgrt-8293s-projects.vercel.app)
  
 
 - **Calculator** – Simple arithmetic calculator ➕➖✖️➗  
   - Built with HTML, Tailwind CSS, and JavaScript  
-  - [Live Demo](https://calculator-9ou7-rlsb3r38u-nirmalamgrt-8293s-projects.vercel.app)
+  - [Repo](https://github.com/Nirmalamangrati/calculator.git)|[Live Demo](https://calculator-9ou7-rlsb3r38u-nirmalamgrt-8293s-projects.vercel.app)
 
  
 - **Todo Application** – Add, edit, delete, and mark tasks as completed .  
   - Built with React.js  
-  - [Live Demo](https://todo-app-mini-project-f9zljt0yt-nirmalamgrt-8293s-projects.vercel.app)
+  - [Repo](https://github.com/Nirmalamangrati/Todo-App-mini-project-.git)|[Live Demo](https://todo-app-mini-project-f9zljt0yt-nirmalamgrt-8293s-projects.vercel.app)
 
  - **Chat app** – A real-time chat application.  
     - Built with React.js, Node.js, Express, Socket.io, and MongoDB 
-    - [Repo](https://github.com/Nirmalamangrati/chatapp.git)
+    - [Repo](https://github.com/Nirmalamangrati/chatapp.git)|[Live demo](chatapp-psbw-gofz36ijd-nirmalamgrt-8293s-projects.vercel.app)
     
 - **Movie Browser UI** – Browse and filter movies 🎬
-   - [Live Demo](https://my-react-app-2-2l7qk6bdx-nirmalamgrt-8293s-projects.vercel.app)
+   - [Repo](https://github.com/Nirmalamangrati/my-react-app-2.git)|[Live Demo](https://my-react-app-2-2l7qk6bdx-nirmalamgrt-8293s-projects.vercel.app)
  
   
 
