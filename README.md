@@ -34,8 +34,8 @@ Here are some of the projects I’ve worked on:
   - [Live Demo](https://todo-app-mini-project-f9zljt0yt-nirmalamgrt-8293s-projects.vercel.app)
 
  - **Chat app** – A real-time chat application.  
-  - Built with React.js, Node.js, Express, Socket.io, and MongoDB 
-  - [Repo](https://github.com/Nirmalamangrati/chatapp.git)
+    - Built with React.js, Node.js, Express, Socket.io, and MongoDB 
+    - [Repo](https://github.com/Nirmalamangrati/chatapp.git)
     
 - **Movie Browser UI** – Browse and filter movies 🎬
    - [Live Demo](https://my-react-app-2-2l7qk6bdx-nirmalamgrt-8293s-projects.vercel.app)
