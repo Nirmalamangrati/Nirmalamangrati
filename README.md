@@ -1,4 +1,4 @@
-# Hi, I'm Nirmala Mangrati 👋
+# Hi, I'm Nirmala Mangrati 
 
 I’m a full-stack web development enthusiast, currently focusing on the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and Next.js.  
 I enjoy building projects to practice and improve step by step. My goal is to write clean, understandable code, learn how things work under the hood, and grow with every project I create.  
@@ -13,18 +13,18 @@ I enjoy building projects to practice and improve step by step. My goal is to wr
 - **Databases:** MongoDB, Firebase, Supabase ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 - **Tools:** Git, GitHub ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
-> Learning by doing is my favorite way to grow and apply what I learn in real projects. 🚀  
+> Learning by doing is my favorite way to grow and apply what I learn in real projects.   
 
 ---
 
-## 📝 Projects
+##  Projects
 
 Here are some of the projects I’ve worked on:  
 - **JS Mini Project** – Small interactive JavaScript project  
   - [Repo](https://github.com/Nirmalamangrati/JS-mini-project.git)|[Live Demo](https://js-mini-project-k0awg2yh9-nirmalamgrt-8293s-projects.vercel.app)
  
 
-- **Calculator** – Simple arithmetic calculator ➕➖✖️➗  
+- **Calculator** – Simple arithmetic calculator 
   - Built with HTML, Tailwind CSS, and JavaScript  
   - [Repo](https://github.com/Nirmalamangrati/calculator.git)|[Live Demo](https://calculator-9ou7-rlsb3r38u-nirmalamgrt-8293s-projects.vercel.app)
 
@@ -37,12 +37,12 @@ Here are some of the projects I’ve worked on:
     - Built with React.js, Node.js, Express, Socket.io, and MongoDB 
     - [Repo](https://github.com/Nirmalamangrati/chatapp.git)|[Live demo](chatapp-psbw-gofz36ijd-nirmalamgrt-8293s-projects.vercel.app)
     
-- **Movie Browser UI** – Browse and filter movies 🎬
+- **Movie Browser UI** – Browse and filter movies 
    - [Repo](https://github.com/Nirmalamangrati/my-react-app-2.git)|[Live Demo](https://my-react-app-2-2l7qk6bdx-nirmalamgrt-8293s-projects.vercel.app)
  
   
 
-- **Snake Game** – Classic browser-based game built with Java 🐍
+- **Snake Game** – Classic browser-based game built with Java 
   - [Repo](https://github.com/Nirmalamangrati/Snake-game)
 
     
@@ -70,24 +70,24 @@ These projects helped me sharpen my coding skills, improve UI/UX understanding, 
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 
 I love connecting with fellow developers and learning from others:  
 
 - **Email:** [nirmalamangrati@example.com](mailto:nirmalamangrati@example.com)  
 - **Phone:** 9825716885  
-- **Location:** Lalitpur-Imadol, Nepal 🌏  
+- **Location:** Lalitpur-Imadol, Nepal  
 
 ---
 
-## 🔗 Find Me Online
+##  Find Me Online
 
 - **GitHub:** [https://github.com/Nirmalamangrati](https://github.com/Nirmalamangrati)  
 - **LinkedIn:** [https://linkedin.com/in/nirmalamangrati](https://linkedin.com/in/nirmalamangrati)  
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Nirmala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nirmalamangrati&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmalamangrati&layout=compact&theme=radical)  
@@ -98,4 +98,4 @@ I love connecting with fellow developers and learning from others:
 
 ---
 
-✨ I enjoy learning, building projects, and improving my skills every day. Thanks for stopping by my profile! 💖
+ I enjoy learning, building projects, and improving my skills every day. Thanks for stopping by my profile! 
