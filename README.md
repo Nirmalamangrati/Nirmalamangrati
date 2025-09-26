@@ -5,7 +5,7 @@ I enjoy building projects to practice and improve step by step. My goal is to wr
 
 ---
 
-## 🛠 What I'm Learning
+## What I'm Learning
 
 - **Languages:** JavaScript, TypeScript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 - **Frontend:** React.js, Next.js, Tailwind CSS ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
