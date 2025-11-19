@@ -36,7 +36,7 @@ Here are some of the projects I’ve worked on:
  
 - **Todo Application** – Add, edit, delete, and mark tasks as completed .  
   - Built with React.js  
-  - [Repo](https://github.com/Nirmalamangrati/Todo-App-mini-project-.git)|[Live Demo](https://todo-app-mini-project-f9zljt0yt-nirmalamgrt-8293s-projects.vercel.app)
+  - [Repo](https://github.com/Nirmalamangrati/Todo-App-mini-project-.git)|[Live Demo]( http://192.168.43.132:5173/)
 
  - **Chat app** – A real-time chat application.  
     - Built with React.js, Node.js, Express, Socket.io, and MongoDB 
