@@ -94,9 +94,10 @@ I love connecting with fellow developers and learning from others:
 
 ## GitHub Stats
 
-![Nirmala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nirmalamangrati&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
+![Nirmala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nirmalamangrati&show_icons=true&theme=radical&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmalamangrati&layout=compact&theme=radical&hide=html)
+al&hide=html)
   
 
 
