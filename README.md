@@ -92,13 +92,4 @@ I love connecting with fellow developers and learning from others:
 
 ---
 
-
-  
-
-
-
-
-
----
-
  I enjoy learning, building projects, and improving my skills every day. Thanks for stopping by my profile! 
