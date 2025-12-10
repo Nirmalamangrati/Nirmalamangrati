@@ -88,7 +88,7 @@ I love connecting with fellow developers and learning from others:
 ##  Find Me Online
 
 - **GitHub:** [https://github.com/Nirmalamangrati](https://github.com/Nirmalamangrati)  
-- **LinkedIn:** [https://linkedin.com/in/nirmalamangrati](https://linkedin.com/in/nirmalamangrati)  
+- **LinkedIn:** [https://linkedin.com/in/nirmalamangrati]( www.linkedin.com/in/nirmala-mangrati-4197152b0 )  
 
 ---
 
