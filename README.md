@@ -69,14 +69,6 @@ Here are some of the projects I’ve worked on:
   - [PRODUCT_INVENTORY](https://github.com/Nirmalamangrati/PRODUCT_INVENTORY.git)
   - [Backend](https://github.com/Nirmalamangrati/Product_inventory_backend.git) 
 
-- **My GitHub Stats**
-
-![Nirmala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nirmalamangrati&show_icons=true&theme=radical)
-
-- **GitHub streak**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nirmalamangrati&theme=radical)
-
-
 These projects helped me sharpen my coding skills, improve UI/UX understanding, and build interactive applications.  
 
 ---
