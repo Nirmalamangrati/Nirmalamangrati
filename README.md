@@ -54,7 +54,7 @@ Here are some of the projects I’ve worked on:
 - **PostFlow (Social Media Platform)** – A platform to create, like, comment, and share posts  
   - Built with React.js, Tailwind CSS, Node.js, Express, and MongoDB  
   - Features media upload, real-time interactions, and user authentication  
-  - [Demo](post-flow-x89n.vercel.app)
+  - [Demo](post-flow-x89n-rkhk9gif5-nirmalamgrt-8293s-projects.vercel.app)
   - [Demo](backend-of-postflow.vercel.app)
 
 - **Hostel Management System** – Manage student accommodations, room allocations, and fees  
