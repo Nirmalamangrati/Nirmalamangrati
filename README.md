@@ -54,8 +54,8 @@ Here are some of the projects I’ve worked on:
 - **PostFlow (Social Media Platform)** – A platform to create, like, comment, and share posts  
   - Built with React.js, Tailwind CSS, Node.js, Express, and MongoDB  
   - Features media upload, real-time interactions, and user authentication  
-  - [Frontend](http://192.168.43.132:5173/)
-  - [Backend](https://github.com/Nirmalamangrati/BackendOfPostflow.git)
+  - [Demo](http://192.168.43.132:5173/)
+  - [Demo](https://github.com/Nirmalamangrati/BackendOfPostflow.git)
 
 - **Hostel Management System** – Manage student accommodations, room allocations, and fees  
   - Built with HTML, CSS, JS,PHP and MongoDB  
