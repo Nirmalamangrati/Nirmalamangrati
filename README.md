@@ -55,7 +55,7 @@ Here are some of the projects I’ve worked on:
   - Built with React.js, Tailwind CSS, Node.js, Express, and MongoDB  
   - Features media upload, real-time interactions, and user authentication  
   - [Demo](http://192.168.43.132:5173/)
-  - [Demo](https://github.com/Nirmalamangrati/BackendOfPostflow.git)
+  - [Demo](backend-of-postflow.vercel.app)
 
 - **Hostel Management System** – Manage student accommodations, room allocations, and fees  
   - Built with HTML, CSS, JS,PHP and MongoDB  
