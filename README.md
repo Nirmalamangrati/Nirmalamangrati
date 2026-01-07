@@ -40,11 +40,11 @@ Here are some of the projects I’ve worked on:
  
 - **Todo Application** – Add, edit, delete, and mark tasks as completed .  
   - Built with React.js  
-  - [Repo](https://github.com/Nirmalamangrati/Todo-App-mini-project-.git)|[Live Demo]( http://192.168.43.132:5173/)
+  - [Repo](https://github.com/Nirmalamangrati/TodoApp.git)|[Live Demo](https://todo-app-b81e.vercel.app/)
 
  - **Chat app** – A real-time chat application.  
     - Built with React.js, Node.js, Express, Socket.io, and MongoDB 
-    - [Repo](https://github.com/Nirmalamangrati/chatapp.git)|[Live demo](chatapp-psbw-gofz36ijd-nirmalamgrt-8293s-projects.vercel.app)
+    - [Repo](https://github.com/Nirmalamangrati/chatapp.git)|[Live demo](https://chatapp-psbw-gofz36ijd-nirmalamgrt-8293s-projects.vercel.app/)
     
 - **Movie Browser UI** – Browse and filter movies 
    - [Repo](https://github.com/Nirmalamangrati/my-react-app-2.git)|[Live Demo](https://my-react-app-2-2l7qk6bdx-nirmalamgrt-8293s-projects.vercel.app)
