@@ -21,6 +21,10 @@ I enjoy building projects to practice and improve step by step. My goal is to wr
 
 Here are some of the projects I’ve worked on:  
 
+- **Paranora Furniture UI** – A responsive furniture product collection page built with HTML, CSS, and JavaScript. Inspired by the Dribbble Paranora design.  
+  - [Repo](https://github.com/Nirmalamangrati/paranora-furniture-ui.git) | [Live Demo](#)
+    
+
 - **Next JS Mini Project** – A simple weather application that shows real-time weather details of any city.
   - [Repo](https://github.com/Nirmalamangrati/weather-app.git)|[Live Demo](http://192.168.43.132:3000)
  
