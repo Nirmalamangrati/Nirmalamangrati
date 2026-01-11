@@ -24,6 +24,8 @@ Here are some of the projects I’ve worked on:
 - **Paranora Furniture UI** – A responsive furniture product collection page built with HTML, CSS, and JavaScript. Inspired by the Dribbble Paranora design.  
   - [Repo](https://github.com/Nirmalamangrati/paranora-furniture-ui.git) | [Live Demo](https://paranora-furniture-ui-sfmm.vercel.app/)
     
+- **Patek Watch Landing Page** – Luxury watch product UI built using HTML, CSS, and Font Awesome.  
+  - [Repo](https://github.com/Nirmalamangrati/patek-watch-landing-page) | [Live Demo](https://patek-watch-landing-page.vercel.app/)
 
 - **Next JS Mini Project** – A simple weather application that shows real-time weather details of any city.
   - [Repo](https://github.com/Nirmalamangrati/weather-app.git)|[Live Demo](http://192.168.43.132:3000)
