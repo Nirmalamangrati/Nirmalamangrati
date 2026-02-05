@@ -1,7 +1,7 @@
 # Hi, I'm Nirmala Mangrati 
 
 I’m a full-stack web development enthusiast, currently focusing on the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and Next.js .  
-I enjoy building projects to practice and improve step by step. My goal is to write clean, understandable code, learn how things work under the hood, and grow with every project I create . 
+I enjoy building projects to practice and improve step by step. My goal is to write clean, understandable code, learn how things work under the hood, and grow with every project I create. 
 
 ---
 
