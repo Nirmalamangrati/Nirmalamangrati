@@ -21,6 +21,10 @@ I enjoy building projects to practice and improve step by step. My goal is to wr
 
 Here are some of the projects I’ve worked on:  
 
+A modern Smart Hazard Response & Safe Route Platform built with React, TypeScript, Tailwind CSS, and shadcn/ui. The platform helps users stay informed during disasters by providing real-time hazard alerts, severity analysis, shelter recommendations, and safe route guidance through an intuitive dashboard.
+
+- **Smart Hazard Response Platform** – A responsive disaster management dashboard built with React, TypeScript, Tailwind CSS, and shadcn/ui, providing real-time hazard alerts, severity analysis, shelter recommendations, and safe route guidance.
+   - [Live Demo](https://v0-smart-hazard-response-platform-e.vercel.app/)
 
 - **React Dashboard Stats** – A modern, responsive dashboard built with React, TypeScript, and Tailwind CSS (shadcn/ui). Includes reusable UI components for displaying statistics, metrics, and charts.  
   - [Repo](https://github.com/Nirmalamangrati/react-dashboard-stats.git) | [Live Demo](https://react-dashboard-stats-rxfy.vercel.app/)
