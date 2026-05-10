@@ -20,7 +20,7 @@ I enjoy building projects to practice and improve step by step. My goal is to wr
 
 ##  Projects
 
- Here are some of the projects I’ve worked on:  
+   Here are some of the projects I’ve worked on:  
 
 
 - **Smart Hazard Response Platform** – A responsive disaster management dashboard built with React, TypeScript, Tailwind CSS, and shadcn/ui, providing real-time hazard alerts, severity analysis, shelter recommendations, and safe route guidance.
