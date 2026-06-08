@@ -29,7 +29,7 @@ I enjoy building projects to practice and improve step by step. My goal is to wr
 - **React Dashboard Stats** – A modern, responsive dashboard built with React, TypeScript, and Tailwind CSS (shadcn/ui). Includes reusable UI components for displaying statistics, metrics, and charts.  
   - [Repo](https://github.com/Nirmalamangrati/react-dashboard-stats.git) | [Live Demo](https://react-dashboard-stats-rxfy.vercel.app/)
 
-- **Paranora Furniture UI** – A responsive furniture product collection page built with HTML, CSS, and JavaScript. Inspired by the Dribbble Paranora design.  
+- **Paranora Furniture UI** – A responsive furniture product collection page built with HTML, CSS, and JavaScript. Inspired by the Dribbble Paranora design .  
   - [Repo](https://github.com/Nirmalamangrati/paranora-furniture-ui.git) | [Live Demo](https://paranora-furniture-ui-sfmm.vercel.app/)
     
 - **Patek Watch Landing Page** – Luxury watch product UI built using HTML, CSS, and Font Awesome.  
